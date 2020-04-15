@@ -1,0 +1,6 @@
+Django==2.1.5
+djangorestframework==3.11.0
+djangorestframework-jwt==1.11.0
+mysqlclient==1.4.6
+PyJWT==1.7.1
+pytz==2019.3
