@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.10
 djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
 mysqlclient==1.4.6
