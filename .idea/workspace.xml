@@ -5,6 +5,7 @@
   </component>
   <component name="ProjectId" id="1aYme7AYzeWugJ7wcCTnGw6tuub" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
